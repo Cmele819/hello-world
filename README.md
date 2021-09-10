@@ -1,2 +1,5 @@
 # hello-world
-another repository
+
+Hello!
+
+I like singing, dancing, and painting.
